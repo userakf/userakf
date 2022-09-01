@@ -9,10 +9,6 @@
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=userakf&layout=compact&hide=html&theme=highcontrast" width="45%" alt="savuer's github top skills"/>
 	</a>
 </p> -->
-
-
-### Hi there 👋
-
 <!--
 **userakf/userakf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
